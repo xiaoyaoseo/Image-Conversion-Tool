@@ -38,7 +38,6 @@ export const zhCN: Translation = {
   // 页脚（KixTools 为可点击链接，外链）
   footerBefore: '© 2026 · 免费在线图片处理｜由 ',
   footerLink: 'xiaoyaoseo',
-  footerLinkUrl: 'https://xiaoyaoseo.com/'
   footerAfter: ' 提供',
 
   // 博客入口卡片（指向 /zh-CN/blog/）
