@@ -35,7 +35,7 @@ export const en = {
 
   // 页脚（KixTools 为可点击链接，外链）
   footerBefore: '© 2026 · Free Online Image Tools | Powered by ',
-  footerLink: 'KixTools',
+  footerLink: 'xiaoyaoseo',
   footerAfter: '',
 
   // 博客入口卡片（指向 /blog/）
